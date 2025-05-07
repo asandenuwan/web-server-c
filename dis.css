@@ -1,0 +1,51 @@
+#form{
+    width: 20cm;
+    height: 30cm;
+    border-radius: 10cm;
+    align-items: center;
+    text-align: center;
+}
+
+#blr{
+    align-items: center;
+    border-radius: 2cm;
+    border-color: greenyellow;
+}
+
+#usrn{
+    font-size: 1cm;
+    color: greenyellow;
+    
+}
+
+#pwdn{
+    font-size: 1cm;
+    color: greenyellow;
+}
+
+#title{
+    font-size: 5cm;
+    color: tomato;
+}
+
+#input{
+    color: black;
+    background-color: greenyellow;
+    text-align: center;
+    padding: 15px 100px;
+    font-size: 20px;
+    font-family: 'Courier New', monospace;
+    font-style:bold;
+}
+
+body{
+    background-color: black;
+}
+
+.btn{
+    color: greenyellow;
+    background-color: cadetblue;
+}
+#space{
+    font-size: 5px;
+}
